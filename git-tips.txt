@@ -1,0 +1,6 @@
+folder + git = repository (repo)
+
+commit = point of save information
+
+repository = modify(in changes folder) --> state --> commit   
+
